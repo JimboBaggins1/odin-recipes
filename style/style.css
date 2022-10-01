@@ -1,0 +1,18 @@
+/* style.css */
+
+body {
+    background-color: azure;
+
+}
+
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+
+ul {
+    color: darkgray;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
